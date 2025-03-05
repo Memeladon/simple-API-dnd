@@ -3,3 +3,5 @@
 vendor/
 
 backend/.env
+backend/src/database/mongo/mongo.env
+backend/src/database/postgres/postgres.env
