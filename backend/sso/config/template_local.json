@@ -1,0 +1,9 @@
+{
+  "env": "local",
+  "storage_path": "./storage",
+  "token_ttl": "1h",
+  "grpc": {
+    "port": 12345,
+    "timeout": "10h"
+  }
+}
